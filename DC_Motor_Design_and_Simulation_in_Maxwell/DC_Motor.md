@@ -33,6 +33,7 @@ Results
 The designed motor meets the expected performance criteria, with appropriate flux densities, airgap length, and electrical characteristics. Further optimizations can be performed to enhance efficiency and reduce core losses.
 
 Files Included
+
 `dc_Machine_Design.pdf`: Detailed report of the design and calculations.
 
 `dc.aedt`: ANSYS Maxwell project files for further analysis.
